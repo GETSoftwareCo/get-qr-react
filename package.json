@@ -1,0 +1,51 @@
+{
+  "name": "@getsoftwareco/get-qr-react",
+  "version": "1.0.0",
+  "description": "A modern, lightweight and customizable QR code scanner component for React.",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsup",
+    "dev": "tsup --watch",
+    "prepublishOnly": "npm run build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "qr-code",
+    "scanner",
+    "html5-qrcode",
+    "camera",
+    "barcode",
+    "getsoftwareco"
+  ],
+  "author": "GetSoftwareCo",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GetSoftwareCo/get-qr-react.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GetSoftwareCo/get-qr-react/issues"
+  },
+  "homepage": "https://github.com/GetSoftwareCo/get-qr-react#readme",
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-dom": ">=16.8.0"
+  },
+  "dependencies": {
+    "html5-qrcode": "^2.3.8"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.7",
+    "@types/react-dom": "^19.2.3",
+    "react": "^19.2.1",
+    "react-dom": "^19.2.1",
+    "tsup": "^8.5.1",
+    "typescript": "^5.9.3"
+  }
+}

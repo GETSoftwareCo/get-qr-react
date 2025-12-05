@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+      "target": "es2020",
+      "module": "esnext",
+      "lib": ["dom", "esnext"],
+      "declaration": true,
+      "sourceMap": true,
+      "moduleResolution": "node",
+      "jsx": "react",
+      "esModuleInterop": true,
+      "skipLibCheck": true
+    },
+    "exclude": ["node_modules", "dist"]
+  }
