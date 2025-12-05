@@ -2,7 +2,7 @@
  # 📸 GetSoftwareCo QR React
 
 [![npm version](https://img.shields.io/npm/v/@getsoftwareco/get-qr-react.svg?style=flat-square)](https://www.npmjs.com/package/@getsoftwareco/get-qr-react)
-[![npm downloads](https://img.shields.io/npm/dm/@getsoftwareco/get-qr-react.svg?style=flat-square)](https://www.npmjs.com/package/@getsoftwareco/get-qr-react)
+ 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 [![Powered by GetSoftwareCo](https://img.shields.io/badge/Powered%20by-GetSoftwareCo-blue.svg?style=flat-square)](https://github.com/GetSoftwareCo)
 
